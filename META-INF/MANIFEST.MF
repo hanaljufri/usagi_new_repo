@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: org.ohdsi.usagi.Launcher
+Class-Path: lib/dom4j-1.6.1.jar lib/lucene-queryparser-4.9.0.jar lib/je-7.3.7.jar lib/lucene-analyzers-common-4.9.0.jar lib/lucene-core-4.9.0.jar lib/lucene-queries-4.9.0.jar lib/poi-3.10.1-20140818 lib/poi-excelant-3.10.1-20140818 lib/poi-ooxml-3.10.1-20140818.jar lib/poi-ooxml-schemas-3.10.1-20140818.jar lib/stax-api-1.0.1.jar lib/xmlbeans-2.6.0.jar
